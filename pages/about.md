@@ -4,24 +4,15 @@ permalink: /about.html
 title: About Me
 description: Get to know what I'm up too
 header-img: 
-last-updated: 2020-10-30 5:55 PM
+last-updated: 2020-12-25 8:30 PM
 ---
 
 <h1 class="mx-auto" style="font-family:Courgette;">{{ page.title }}</h1>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Libero id faucibus nisl tincidunt eget. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Duis convallis convallis tellus id interdum velit. Ultricies mi eget mauris pharetra et. Odio pellentesque diam volutpat commodo sed egestas. Eu mi bibendum neque egestas congue quisque. Augue lacus viverra vitae congue eu consequat ac felis donec. Ultrices vitae auctor eu augue ut lectus arcu. Eu consequat ac felis donec et. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget.
+I am a PhD student at Georgia Institute of Technology. I was born and brought up in the beautiful city of Bangalore, Karnataka India. I completed my Bachelors in Electronics and Communication Engineering and I am a proud alum of the first private engineering college in India - BMS College of Engineering (Est. 1946). I also go a chance to work as a full time faculty in the same college for an year where I taught Freshmen, Sophomore and Junior Students. 
 
+I did my Masters in Electrical Engineering in the Viterbi School of Engineering at the University of Southern California majoring in VLSI and Computer Architecture. Later I started to work at Intel Corporation in Folsom California, as a Graphics Hardware Engineer. The role was a back-end Physical Design (RTL-GDS-II flow execution) and was a part of the Dual-Sub-Slice Macro team where I worked on multiple generations of Graphic Technologies. My specialization was timing closure, quality rules closure to mention a few. I served as Section-Timing Owner, Section Performance-Verification Owner, Section Quality Owner along with partition closures for multiple projects on cutting edge technologies. 
 
-*This is an example of code*
-```js
-<script>
-    $(document).ready(function() {
-        $(".toast").toast('show');
-    });
-</script>
-```
+With penchant for academics and research, I started my PhD at Georgia Tech and have been currently working on Cryogenic CMOS VLSI circuits. My main focus so far has been towards high-performance computing using cryo-systems and to explore different technologies along with CMOS that can be efficiently exploited for HPC.  
 
-Semper eget duis at tellus at urna condimentum. Elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Suspendisse faucibus interdum posuere lorem ipsum dolor. Volutpat commodo sed egestas egestas fringilla phasellus faucibus. Maecenas accumsan lacus vel facilisis volutpat est velit egestas dui. Massa placerat duis ultricies lacus. Fermentum et sollicitudin ac orci phasellus egestas tellus. Placerat orci nulla pellentesque dignissim enim sit amet. Tellus mauris a diam maecenas sed enim. Tortor vitae purus faucibus ornare. Lectus quam id leo in vitae turpis massa. Porttitor eget dolor morbi non arcu risus quis varius. Felis eget nunc lobortis mattis aliquam. Integer vitae justo eget magna fermentum.
-
-Egestas congue quisque egestas diam in arcu cursus euismod quis. Ullamcorper eget nulla facilisi etiam dignissim diam. Nunc pulvinar sapien et ligula ullamcorper. Turpis in eu mi bibendum. Faucibus scelerisque eleifend donec pretium vulputate. Euismod lacinia at quis risus sed vulputate odio ut enim. Phasellus faucibus scelerisque eleifend donec pretium. Non enim praesent elementum facilisis leo vel fringilla est ullamcorper. Quis auctor elit sed vulputate. Eu mi bibendum neque egestas. Eu turpis egestas pretium aenean pharetra magna ac. Augue ut lectus arcu bibendum at. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Fermentum leo vel orci porta non pulvinar. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Amet commodo nulla facilisi nullam vehicula ipsum a arcu.
-
+I enjoy listening Carnatic Classical Music, cooking and hiking in my free time. 

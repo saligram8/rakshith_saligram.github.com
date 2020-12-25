@@ -1,0 +1,11 @@
+- name: Integrated Circuits and Systems Research Lab
+  id: project1
+  description: >
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  date: true
+  link: https://example.com
+  image:  http://placehold.it/100x100
+  tech: 
+    - python
+

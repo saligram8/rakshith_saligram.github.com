@@ -1,24 +1,59 @@
-- School: Harvard
-  Degree: 
-  Program: POL 240/SPI 312 International Relations
-  id: POL-240/SPI-312-International-Relations
-  data-id: data-harv1
-  heading-id: head-harv1
-  StartDate: 08/30/2019
-  EndDate: 08/30/2020
+- School: BMS College of Engineering
+  Degree: Bachelor of Engineering
+  Program: Elements of Electronics Engineering
+  id: 
+  data-id: data-bms1
+  heading-id: head-bms1
+  StartDate: 
+  EndDate: 
   first: true   # one must be true to properly display
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Elementary course for Freshmen to understand basics of Electronic Devices like Diodes, BJTs, MOSFETS, various Bias Configurations, Logic Devices and Boolean algebra, Operational Amplifiers, Oscillators etc.
 
-- School: Princeton
-  Degree: 
-  Program: POL 380 Human Rights
-  id: POL-380-Human-Rights
-  data-id: data-princ1   
-  heading-id: head-princ1  # This can be any random string as long as each teaching set has a unique one. 
-  StartDate: 08/30/2019
-  EndDate: 08/30/2020
+- School: BMS College of Engineering
+  Degree: Bachelor of Engineering
+  Program: Electromagnetic Field Theory
+  id: 
+  data-id: data-bms2   
+  heading-id: head-bms2  # This can be any random string as long as each teaching set has a unique one. 
+  StartDate: 
+  EndDate:
   first: false
-  Icon: /assets/img/icons/2x/princeton-crop.png      # Make this icon small, think 30px/30px
   description: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    Sophomore course in Electronics Engineering covering Vector Algebra, Electrostatics Coulomb's law, Gauss' law and Divergence theorem, Energy and Potential, Current and current densities, Current continuity equations, Laplace  and Poisson's Equations, Magnetostatics, Biot-Savart's Law, Ampere's Circuit Law, Faraday's Laws, Maxwell's Equations and wave propagation
+
+- School: BMS College of Engineering
+  Degree: Bachelor of Engineering
+  Program: Digital Electronics
+  id: 
+  data-id: data-bms3   
+  heading-id: head-bms3  # This can be any random string as long as each teaching set has a unique one. 
+  StartDate: 
+  EndDate:
+  first: false
+  description: >
+    Sophomore course in Electronics Engineering covering Boolean algebra, Karnaugh Maps, Quine-McClusky methods, tabulation method of Boolean simplifications, Combinational circuits Design, Sequential circuits
+
+- School: BMS College of Engineering
+  Degree: Bachelor of Engineering
+  Program: Microcontrollers
+  id: 
+  data-id: data-bms4   
+  heading-id: head-bms4  # This can be any random string as long as each teaching set has a unique one. 
+  StartDate: 
+  EndDate:
+  first: false
+  description: >
+    Sophomore course in Electronics Engineering focusing on 8051 micro controllers with emphasis on architecture, assembly level programming, embedded C programming, Memory and IO interfacing
+
+- School: BMS College of Engineering
+  Degree: Bachelor of Engineering
+  Program: Digital Signal Processing
+  id: 
+  data-id: data-bms5   
+  heading-id: head-bms5  # This can be any random string as long as each teaching set has a unique one. 
+  StartDate: 
+  EndDate:
+  first: false
+  description: >
+    Junior course teaching DFT, IDFT, properties, usage of DFT in linear filtering, IIR filters, FIR filters, design and realization
