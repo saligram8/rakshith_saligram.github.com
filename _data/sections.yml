@@ -1,7 +1,7 @@
 - name: Publications
   id: publications
   description: Publications in Reverse Chronological Order
-  url: publications.html
+  url: 
   first: true
 
 - name: Corporate Experience
